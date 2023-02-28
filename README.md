@@ -1,4 +1,4 @@
-### Hi there, I'm Marco 👋
+# Hi there, I'm Marco 👋
 ```javascript
 const marco = {
     about: "👨🏻‍💻 Computer Science student at TU Dublin“,
