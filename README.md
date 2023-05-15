@@ -5,7 +5,7 @@ const marco = {
     workingOn: "Bachelor of Science in Computing with Language (Spanish)",
     technologies: {
         frontend: ["HTML", "CSS", "Javascript"],
-        devOps: ["Python", "Lua", "Assembly"],
+        devOps: ["Python", "C++", "Assembly"],
         databases: "SQL",
     }
 }
